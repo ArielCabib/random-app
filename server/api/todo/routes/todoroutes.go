@@ -1,7 +1,7 @@
 package todoroutes
 
 import (
-	"github.com/<%= username %>/<%= appName %>/server/api/todo/controller"
+	"github.com/ArielCabib/random-app/server/api/todo/controller"
 	"github.com/julienschmidt/httprouter"
 )
 
