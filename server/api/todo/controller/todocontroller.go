@@ -3,7 +3,7 @@ package todocontroller
 import (
 	"encoding/json"
 	"github.com/ArielCabib/random-app/server/api/todo/dao"
-	todo "github.com/ArielCabib/random-app/server/api/todo/model"
+	"github.com/ArielCabib/random-app/server/api/todo/model"
 	"github.com/julienschmidt/httprouter"
 	"io/ioutil"
 	"net/http"
