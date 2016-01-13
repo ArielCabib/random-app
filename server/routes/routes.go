@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com//random-app/server/api/todo/routes"
-	"github.com//random-app/server/common/static"
+	"github.com/ArielCabib/random-app/server/api/todo/routes"
+	"github.com/ArielCabib/random-app/server/common/static"
 	"github.com/julienschmidt/httprouter"
 )
 
